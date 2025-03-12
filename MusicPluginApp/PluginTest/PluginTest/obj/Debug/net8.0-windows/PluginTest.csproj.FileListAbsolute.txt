@@ -1,0 +1,62 @@
+C:\Users\kompu\Desktop\PluginTest\PluginTest\bin\Debug\net8.0-windows\PluginTest.exe
+C:\Users\kompu\Desktop\PluginTest\PluginTest\bin\Debug\net8.0-windows\PluginTest.deps.json
+C:\Users\kompu\Desktop\PluginTest\PluginTest\bin\Debug\net8.0-windows\PluginTest.runtimeconfig.json
+C:\Users\kompu\Desktop\PluginTest\PluginTest\bin\Debug\net8.0-windows\PluginTest.dll
+C:\Users\kompu\Desktop\PluginTest\PluginTest\bin\Debug\net8.0-windows\PluginTest.pdb
+C:\Users\kompu\Desktop\PluginTest\PluginTest\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\kompu\Desktop\PluginTest\PluginTest\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\kompu\Desktop\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest_MarkupCompile.cache
+C:\Users\kompu\Desktop\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest_MarkupCompile.lref
+C:\Users\kompu\Desktop\PluginTest\PluginTest\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\kompu\Desktop\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.g.resources
+C:\Users\kompu\Desktop\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kompu\Desktop\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.AssemblyInfoInputs.cache
+C:\Users\kompu\Desktop\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.AssemblyInfo.cs
+C:\Users\kompu\Desktop\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.csproj.CoreCompileInputs.cache
+C:\Users\kompu\Desktop\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.dll
+C:\Users\kompu\Desktop\PluginTest\PluginTest\obj\Debug\net8.0-windows\refint\PluginTest.dll
+C:\Users\kompu\Desktop\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.pdb
+C:\Users\kompu\Desktop\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.genruntimeconfig.cache
+C:\Users\kompu\Desktop\PluginTest\PluginTest\obj\Debug\net8.0-windows\ref\PluginTest.dll
+C:\Users\kompu\OneDrive\Рабочий стол\PluginTest\PluginTest\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\kompu\OneDrive\Рабочий стол\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest_MarkupCompile.cache
+C:\Users\kompu\OneDrive\Рабочий стол\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest_MarkupCompile.lref
+C:\Users\kompu\OneDrive\Рабочий стол\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.dll
+C:\Users\kompu\OneDrive\Рабочий стол\PluginTest\PluginTest\obj\Debug\net8.0-windows\refint\PluginTest.dll
+C:\Users\kompu\OneDrive\Рабочий стол\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.pdb
+C:\Users\kompu\OneDrive\Рабочий стол\PluginTest\PluginTest\bin\Debug\net8.0-windows\PluginTest.exe
+C:\Users\kompu\OneDrive\Рабочий стол\PluginTest\PluginTest\bin\Debug\net8.0-windows\PluginTest.deps.json
+C:\Users\kompu\OneDrive\Рабочий стол\PluginTest\PluginTest\bin\Debug\net8.0-windows\PluginTest.runtimeconfig.json
+C:\Users\kompu\OneDrive\Рабочий стол\PluginTest\PluginTest\bin\Debug\net8.0-windows\PluginTest.dll
+C:\Users\kompu\OneDrive\Рабочий стол\PluginTest\PluginTest\bin\Debug\net8.0-windows\PluginTest.pdb
+C:\Users\kompu\OneDrive\Рабочий стол\PluginTest\PluginTest\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\kompu\OneDrive\Рабочий стол\PluginTest\PluginTest\obj\Debug\net8.0-windows\App.baml
+C:\Users\kompu\OneDrive\Рабочий стол\PluginTest\PluginTest\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\kompu\OneDrive\Рабочий стол\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.g.resources
+C:\Users\kompu\OneDrive\Рабочий стол\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kompu\OneDrive\Рабочий стол\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.AssemblyInfoInputs.cache
+C:\Users\kompu\OneDrive\Рабочий стол\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.AssemblyInfo.cs
+C:\Users\kompu\OneDrive\Рабочий стол\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.csproj.CoreCompileInputs.cache
+C:\Users\kompu\OneDrive\Рабочий стол\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.genruntimeconfig.cache
+C:\Users\kompu\OneDrive\Рабочий стол\PluginTest\PluginTest\obj\Debug\net8.0-windows\ref\PluginTest.dll
+C:\Users\kompu\Desktop\Work\PluginTest\PluginTest\bin\Debug\net8.0-windows\PluginTest.exe
+C:\Users\kompu\Desktop\Work\PluginTest\PluginTest\bin\Debug\net8.0-windows\PluginTest.deps.json
+C:\Users\kompu\Desktop\Work\PluginTest\PluginTest\bin\Debug\net8.0-windows\PluginTest.runtimeconfig.json
+C:\Users\kompu\Desktop\Work\PluginTest\PluginTest\bin\Debug\net8.0-windows\PluginTest.dll
+C:\Users\kompu\Desktop\Work\PluginTest\PluginTest\bin\Debug\net8.0-windows\PluginTest.pdb
+C:\Users\kompu\Desktop\Work\PluginTest\PluginTest\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\kompu\Desktop\Work\PluginTest\PluginTest\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\kompu\Desktop\Work\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest_MarkupCompile.cache
+C:\Users\kompu\Desktop\Work\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest_MarkupCompile.lref
+C:\Users\kompu\Desktop\Work\PluginTest\PluginTest\obj\Debug\net8.0-windows\App.baml
+C:\Users\kompu\Desktop\Work\PluginTest\PluginTest\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\kompu\Desktop\Work\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.g.resources
+C:\Users\kompu\Desktop\Work\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kompu\Desktop\Work\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.AssemblyInfoInputs.cache
+C:\Users\kompu\Desktop\Work\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.AssemblyInfo.cs
+C:\Users\kompu\Desktop\Work\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.csproj.CoreCompileInputs.cache
+C:\Users\kompu\Desktop\Work\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.dll
+C:\Users\kompu\Desktop\Work\PluginTest\PluginTest\obj\Debug\net8.0-windows\refint\PluginTest.dll
+C:\Users\kompu\Desktop\Work\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.pdb
+C:\Users\kompu\Desktop\Work\PluginTest\PluginTest\obj\Debug\net8.0-windows\PluginTest.genruntimeconfig.cache
+C:\Users\kompu\Desktop\Work\PluginTest\PluginTest\obj\Debug\net8.0-windows\ref\PluginTest.dll
